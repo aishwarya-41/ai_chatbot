@@ -1,4 +1,4 @@
-<img width="2984" height="1612" alt="image" src="https://github.com/user-attachments/assets/847cc0b3-5333-4045-88fc-6ccdb8b4c197" /># AI Chatbot
+# AI Chatbot
 A basic AI-powered chatbot application built with Python. The project features a modular backend and can be extended for natural language processing and intelligent conversations.
 
 # Table of Contents
